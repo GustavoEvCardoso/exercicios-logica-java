@@ -36,8 +36,3 @@ public class ExercicioB {
 
 }
 
-/*Olá visitante, faço o curso de Análise e Desenvolvimento de Sistemas na Universidade São Judas Tadeu e estou no primeiro semestre do curso. 
-
-Busco uma oportunidade de estágio na área de tecnologia. Fiz alguns cursos livres para adquirir conhecimentos básicos em HTML, CSS, JavaScript. Também tenho conhecimento em Metodologia Scrum e método Kanban. Eu quero aprender novas linguagens de programação,  novos frameworks e quero desenvolver novas soft-skills.
-
-Email: gustavoev.cardoso@gmail.com*/
