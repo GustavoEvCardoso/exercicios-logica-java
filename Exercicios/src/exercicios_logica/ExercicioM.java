@@ -24,32 +24,6 @@ public class ExercicioM {
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*Faça um programa que recebe a quantidade de cilindradas (cc) de um veículo de competição e exibe a categoria a qual ele pertence, sendo:
 *• De 0cc a 120cc: “Sub Production”;
 *• De 121cc a 240cc: “Production”;
